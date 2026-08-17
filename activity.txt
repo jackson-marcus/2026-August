@@ -4,3 +4,4 @@
 2026-08-16 11:32:05 | chore: setup MLOps environment configurations and uv lockfiles
 2026-08-16 14:48:19 | feat(infra): configure baseline Docker Compose templates and Makefile scripts
 2026-08-16 17:21:40 | docs: add architecture notes for data ingestion pipelines
+2026-08-17 08:35:12 | feat(core): implement synthetic data generators for time series and fraud models
