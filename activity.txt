@@ -7,3 +7,4 @@
 2026-08-17 08:35:12 | feat(core): implement synthetic data generators for time series and fraud models
 2026-08-17 10:12:44 | feat(models): setup scikit-learn and LightGBM baseline training loops
 2026-08-17 12:45:19 | test: add unit tests for feature transformation and data validation
+2026-08-17 15:10:33 | feat(api): scaffold FastAPI application structure and health check endpoints
