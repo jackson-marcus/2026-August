@@ -16,3 +16,4 @@
 2026-08-18 14:30:22 | feat(retrieval): implement BM25 and hybrid dense vector search modules
 2026-08-18 16:12:54 | test: expand pytest suite for model inference boundary conditions
 2026-08-18 18:25:10 | feat(api): implement Pydantic v2 request and response validation schemas
+2026-08-18 20:10:45 | docs: document API endpoint contracts and request payload samples
