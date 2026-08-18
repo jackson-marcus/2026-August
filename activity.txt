@@ -11,3 +11,4 @@
 2026-08-17 17:55:08 | feat(ui): setup initial Streamlit dashboard wireframes and layout components
 2026-08-17 19:40:27 | docs: update sprint retrospective and data schema specifications
 2026-08-18 09:05:31 | feat(eval): add cross-validation harnesses and out-of-fold metric tracking
+2026-08-18 10:48:15 | feat(mlflow): integrate MLflow experiment logging and artifact registry
