@@ -13,3 +13,4 @@
 2026-08-18 09:05:31 | feat(eval): add cross-validation harnesses and out-of-fold metric tracking
 2026-08-18 10:48:15 | feat(mlflow): integrate MLflow experiment logging and artifact registry
 2026-08-18 12:15:40 | refactor(models): optimize hyperparameter tuning search grids
+2026-08-18 14:30:22 | feat(retrieval): implement BM25 and hybrid dense vector search modules
