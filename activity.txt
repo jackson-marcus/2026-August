@@ -10,3 +10,4 @@
 2026-08-17 15:10:33 | feat(api): scaffold FastAPI application structure and health check endpoints
 2026-08-17 17:55:08 | feat(ui): setup initial Streamlit dashboard wireframes and layout components
 2026-08-17 19:40:27 | docs: update sprint retrospective and data schema specifications
+2026-08-18 09:05:31 | feat(eval): add cross-validation harnesses and out-of-fold metric tracking
