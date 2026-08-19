@@ -23,3 +23,4 @@
 2026-08-19 13:40:50 | perf: optimize batch inference latency and vectorized matrix operations
 2026-08-19 15:18:22 | feat(ui): add interactive Plotly visualizations and parameter sliders
 2026-08-19 17:05:41 | test: add end-to-end integration tests for REST API endpoints
+2026-08-19 18:50:15 | chore(ci): setup GitHub Actions automated testing and linting workflow
