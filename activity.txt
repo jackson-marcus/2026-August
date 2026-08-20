@@ -29,3 +29,4 @@
 2026-08-20 09:55:12 | feat(causal): add uplift modeling meta-learners and Qini curve benchmarks
 2026-08-20 11:20:30 | feat(graph): implement Louvain community detection for entity graph projection
 2026-08-20 12:45:18 | refactor(api): enhance error handling, status codes, and structured JSON logs
+2026-08-20 14:15:00 | feat(ui): finalize dashboard theme styling and model inspection tabs
