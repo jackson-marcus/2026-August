@@ -26,3 +26,4 @@
 2026-08-19 18:50:15 | chore(ci): setup GitHub Actions automated testing and linting workflow
 2026-08-19 20:30:00 | docs: update production deployment blueprints and container orchestration notes
 2026-08-20 08:30:45 | feat(ops): implement discrete-event queue simulation and capacity planner
+2026-08-20 09:55:12 | feat(causal): add uplift modeling meta-learners and Qini curve benchmarks
